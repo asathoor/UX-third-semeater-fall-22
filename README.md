@@ -2,7 +2,7 @@
 
 ## Interactive Data Based Infographics
 
-Interactive productions react to the actions of a user. Adobe Animate is a great tool for interactive animations. In the B2B case we will create infographics that respond to events, such as clicks, mouseovers and similar.
+Interactive productions react to the actions of a user. Adobe Animate is a great tool for interactive animations. In the B2B case we will create infographics that respond to events, such as clicks, mouseovers and similar. 
 
 In this class you'll work with interactive infographics with data visualizations for a B2B case. You will learn the basic animation principles such as:
 
