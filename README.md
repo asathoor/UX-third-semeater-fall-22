@@ -12,7 +12,7 @@ In this class you'll work with interactive infographics with data visualizations
 * Interactive buttons and how to trigger them via JavaScript events.
 * How to use JavaScript objects, such as variables or JSON in the production.
 
-## Two Lessons
+## Two Days
 
 * Adobe Animate I: Basic animation plus the bone tool. (Frame-by-frame, tweens, bones, sounds)
 * Adobe Animate II: Interactive event based actions in JavaScript. (Click and KABOOM)
