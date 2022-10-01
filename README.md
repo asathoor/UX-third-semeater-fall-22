@@ -15,3 +15,9 @@ In this class you'll work with interactive infographics with data visualizations
 ## Publish Settings
 
 * Create your work as a Web HTML5 canvas based production. 
+
+## The Directories
+
+* bones/  - bone tool samples
+* frame-by-frame/ - both frame by frame and some tweens
+* interactive-tutorial/ - simple button sample
