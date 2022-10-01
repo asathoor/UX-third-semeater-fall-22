@@ -22,7 +22,7 @@ In this class you'll work with interactive infographics with data visualizations
 * frame-by-frame/ - both frame by frame and some tweens
 * interactive-tutorial/ - simple button sample
 
-## Keyboard Shortcuts
+## Some Keyboard Shortcuts
 
 * F8: Convert to symbol (button, graphic, movie)
 * F9: Actiond (i.e. the JavaScript panel)
