@@ -15,7 +15,7 @@ In this class you'll work with interactive infographics with data visualizations
 ## Two Days
 
 * Adobe Animate I: Basic animation plus the bone tool. (Frame-by-frame, tweens, bones, sounds)
-* Adobe Animate II: Interactive event based actions in JavaScript. (Click and KABOOM)
+* Adobe Animate II: Interactive event based actions in JavaScript. (Click and KABOOM, Publishing, integrate in HTML or WordPress)
 
 ## Publish Settings
 
@@ -29,5 +29,5 @@ In this class you'll work with interactive infographics with data visualizations
 
 ## Some Keyboard Shortcuts
 
-* F8: Convert to symbol (button, graphic, movie)
-* F9: Actiond (i.e. the JavaScript panel)
+* F8: Convert to *symbol* (button, graphic, movie)
+* F9: Actions (i.e. the Scripting / JavaScript panel)
