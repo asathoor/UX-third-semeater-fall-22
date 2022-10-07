@@ -359,12 +359,7 @@ if (reversed == null) { reversed = false; }
 		}
 	}
 	this.frame_20 = function() {
-		/* Stop at This Frame
-		The  timeline will stop/pause at the frame where you insert this code.
-		Can also be used to stop/pause the timeline of movieclips.
-		*/
 		
-		this.stop();
 	}
 
 	// actions tween:
@@ -429,7 +424,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/in_class_button_movie_control_atlas_1.png?1665130759758", id:"in_class_button_movie_control_atlas_1"}
+		{src:"images/in_class_button_movie_control_atlas_1.png?1665131536838", id:"in_class_button_movie_control_atlas_1"}
 	],
 	preloads: []
 };
