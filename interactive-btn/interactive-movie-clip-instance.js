@@ -164,16 +164,22 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// symbols
+	this.instance = new lib.myMovie();
+	this.instance.setTransform(624.35,435.9,1,1,0,0,0,42.5,80);
+
+	this.instance_1 = new lib.myMovie();
+	this.instance_1.setTransform(501.95,279.15,1,1,0,0,0,42.5,80);
+
 	this.animation_mov = new lib.myMovie();
 	this.animation_mov.name = "animation_mov";
-	this.animation_mov.setTransform(410,210,1,1,0,0,0,47.5,47.5);
+	this.animation_mov.setTransform(177.5,417.5,1,1,0,0,0,47.5,47.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.animation_mov).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.animation_mov},{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(752,462,-294,-139);
+p.nominalBounds = new cjs.Rectangle(519.5,498.7,157.89999999999998,31.80000000000001);
 // library properties:
 lib.properties = {
 	id: 'EE3F914819F9481DB6F01ADEDE9597DA',
