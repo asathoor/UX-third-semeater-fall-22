@@ -57,7 +57,7 @@ if (reversed == null) { reversed = false; }
 			"Jensen"
 		]
 		
-		var rnd = Math.floor(Math.random() *2)
+		var rnd = Math.floor(Math.random() * z.length);
 		
 		this.sss.text = z[rnd];
 	}
