@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<style>
+/** medias **/
+  img,
+  video,
+  iframe {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p>
+
+  <h2>Code from: W3 Schools</h2>
+  <p>Try it yourself <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp">here</a></p>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2">
+      <h3>Column 1</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-7">
+      <h3>New Posts 2</h3>
+      <div id="viewPosts"></div>
+
+    </div>
+    <div class="col-sm-3">
+      <h3>Column 3</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+  </div>
+</div>
+
+<script src="js/get-posts.js"></script>
+
+</body>
+</html>
