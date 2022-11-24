@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  color: #fff;
+  background-color: #000;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+}
+
+p {
+  width: 52rem;
+  max-width: 80%;
+}
